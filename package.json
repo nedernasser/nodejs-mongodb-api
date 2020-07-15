@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-mongodb-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nedernasser/nodejs-mongodb-api.git"
+  },
+  "keywords": [],
+  "author": "Neder Nached Nasser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nedernasser/nodejs-mongodb-api/issues"
+  },
+  "homepage": "https://github.com/nedernasser/nodejs-mongodb-api#readme",
+  "dependencies": {
+    "mongoose": "^5.9.23",
+    "restify": "^8.5.1"
+  }
+}
